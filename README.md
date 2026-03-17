@@ -5,7 +5,8 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-purple)](https://openai.com/)
 [![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-orange)](https://www.pinecone.io/)
 
-![Doc-Chat Workflow](architecture/Screenshot 2026-03-17 at 15.34.15.png)
+![Doc-Chat Workflow](architecture/picture1.png)
+![Doc-Chat Workflow](architecture/picture3.png)
 
 ### Project Overview
 
