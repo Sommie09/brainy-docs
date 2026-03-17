@@ -5,6 +5,8 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-purple)](https://openai.com/)
 [![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-orange)](https://www.pinecone.io/)
 
+![Doc-Chat Workflow](architecture/Screenshot 2026-03-17 at 15.34.15.png)
+
 ### Project Overview
 
 BrainyDocs is an AI-powered document chat application.  It upload PDFs and ask questions in natural language, powered by embeddings and vector search and intelligently splits documents into overlapping chunks to give context-aware answers.
