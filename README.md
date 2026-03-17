@@ -88,5 +88,4 @@ doc-chat/
 ### Next steps
 Contributions are welcome! Open a PR or issue. Some ideas:
 - Add multi-document support  
-- Build a web UI  
 - Improve chunking strategy
